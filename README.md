@@ -5,4 +5,4 @@ before you start type the code
 pip install pyautogui
 '''
 
-![image](simulateion.png)
+![image](simulation.png)
