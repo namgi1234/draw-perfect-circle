@@ -1,6 +1,6 @@
 # draw-perfect-circle
 
-before you start type the code
+before you start type the code in the turminal
 ```bash
 pip install pyautogui
 ```
