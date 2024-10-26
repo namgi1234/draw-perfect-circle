@@ -7,4 +7,4 @@ before you start type the code in the turminal
 pip install pyautogui
 ```
 
-![image](simulation.png)
+![image](draw-circle.png)
