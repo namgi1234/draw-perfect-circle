@@ -1,8 +1,8 @@
 # draw-perfect-circle
 
 before you start type the code
-'''bash
+```bash
 pip install pyautogui
-'''
+```
 
 ![image](simulation.png)
